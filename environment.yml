@@ -1,0 +1,12 @@
+name: tweezepy
+channels:
+  - defaults
+dependencies:
+  - numpy
+  - python
+  - numba
+  - param
+  - scipy
+  - matplotlib
+  - conda-forge::h5py
+prefix: /Users/pascal/anaconda3/envs/tweezepy
